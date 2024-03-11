@@ -1,0 +1,17 @@
+{
+    "call":{
+        "title":"رقم الهاتف",
+        "icon":"fa-solid fa-phone",
+        "content":"+201556135623"
+    },
+    "chat":{
+        "title":"مراسلة عبر الواتس اب",
+        "icon":"fa-brands fa-whatsapp",
+        "content":"+393200608245"
+    },
+    "email":{
+        "title":"مراسلة عبر البريد الالكتروني",
+        "icon":"fa-solid fa-envelope",
+        "content":"ahmed.farid0002@gmail.com"
+    }
+}

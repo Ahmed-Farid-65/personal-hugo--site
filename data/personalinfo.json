@@ -1,0 +1,22 @@
+{
+    "fullName":{
+        "title":"الاسم",
+        "icon":"fa-solid fa-user",
+        "content":"أحمد فريد"
+    },
+    "marital status":{
+        "title":"الحالة الاجتماعية",
+        "icon":"fa-solid fa-heart",
+        "content":"خاطب" 
+    },
+    "myBirthday":{
+        "title":"تاريخ الميلاد",
+        "icon":"fa-solid fa-cake-candles",
+        "content":"6-5-2000"
+    },
+    "nationality":{
+        "title":"الجنسية",
+        "icon":"fa-solid fa-flag",
+        "content":"مصري"
+    }
+}

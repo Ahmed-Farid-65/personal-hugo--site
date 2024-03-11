@@ -1,0 +1,18 @@
+<div class="card card--full">
+    <h2>اعمال السابقة</h2>
+    <div class="slides-container" id="work">
+        <div class="slides-container__wraper">
+            {{ range .Site.Data.work }}
+                <div class="slides fade">
+                    <div class="image-holder">
+                        <img src="{{ .src }}" alt="معرض اعمالي">
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+        <div class="slides-btn">
+            <span class="next"><i class="fa-solid fa-chevron-right"></i></span>
+            <span class="prev"><i class="fa-solid fa-chevron-left"></i></span>
+        </div>
+    </div>
+</div>

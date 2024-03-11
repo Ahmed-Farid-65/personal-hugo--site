@@ -1,0 +1,20 @@
+{
+    "skill1":{
+        "title":"SQL",
+        "percent":"80%",
+        "color":"#e749a0"
+    },
+    "skill2":{
+        "title":"Java",
+        "percent":"85%",
+        "color":"#87bdf4"
+    },"skill3":{
+        "title":"UI/UX",
+        "percent":"70%",
+        "color":"#f4a950"
+    },"skill4":{
+        "title":"Git/GitHub",
+        "percent":"90%",
+        "color":"#8dd352"
+    }
+}

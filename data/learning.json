@@ -1,0 +1,20 @@
+{
+    "learning1": {
+        "title": "طالب سابق في جامعة (University of Pavia)",
+        "icon":"fa-solid fa-graduation-cap",
+        "time":"2020-2022",
+        "content":"طالب في جامعة بافيا قسم الهندسة الميكانيكية"
+    },
+    "learning2":{
+        "title": "طالب حالي في جامعة (The Egyptian E-learning University)",
+        "icon":"fa-solid fa-graduation-cap",
+        "time":"2022-present",
+        "content":"طالب حالي في الجامعة المصرية في التعلم الالكتروني قسم الحاسبات والمعلومات"
+    },
+    "learning3":{
+        "title": "دبلومة اكاديمية حاسوب (Front-End)",
+        "icon":"fa-solid fa-graduation-cap",
+        "time":"2023",
+        "content":"حاصل على دبلومة في تطوير وجهات المستخدم من اكاديمية حاسوب"
+    }
+}
